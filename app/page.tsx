@@ -6,7 +6,7 @@ import Projects from "./sections/projects";
 
 export default function Home() {
   return (
-    <main>
+    <main >
         <Navbar/>
         <Hero/>
         <About/>
